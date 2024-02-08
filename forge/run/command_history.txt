@@ -1,0 +1,4 @@
+/locate biome minecraft:windswept_savanna
+/tp @s 715 86 2040
+/locate biome minecraft:stony_peaks
+/tp @s -3631 85 4435
