@@ -1,0 +1,7 @@
+{
+  "item.flingshot.shoot": {
+    "sounds": [
+      "earth:item/flingshot/flingshot_shoot"
+    ]
+  }
+}

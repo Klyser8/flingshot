@@ -5,7 +5,7 @@ dependencies {
 }
 
 //loom {
-//    accessWidenerPath = file("src/main/resources/modid.accesswidener")
+//    accessWidenerPath = file("src/main/resources/flingshot.accesswidener")
 //}
 
 architectury {

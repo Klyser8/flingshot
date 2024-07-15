@@ -1,9 +1,9 @@
 {
   "schemaVersion": 1,
-  "id": "modid",
+  "id": "flingshot",
   "version": "${version}",
 
-  "name": "modname",
+  "name": "Flingshot",
   "description": "",
   "authors": [],
   "contact": {},
@@ -14,8 +14,8 @@
   "environment": "*",
   "entrypoints": {},
   "mixins": [
-    "modid.mixins.json",
-    "modid-common.mixins.json"
+    "flingshot.mixins.json",
+    "flingshot-common.mixins.json"
   ],
   "depends": {
     "fabricloader": ">=0.15.6",
